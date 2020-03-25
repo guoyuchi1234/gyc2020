@@ -1,15 +1,18 @@
-[200~a = {1:2,3:4}
-print(a)
-del(a[2])
-print(a)
-[200~a = {1:2,3:4}
-print(a)
-del(a[2])
-print(a)
-[200~a = {1:2,3:4}
-print(a)
-del(a[2])
-print(a)
+lk十九点零分快结束了打开解放螺丝扣搭街坊离开
+
+asdfasdf啊f 
+ 
+  dsf asd fa 地方啊地方爱的发
+     
+     
+     asdf阿斯蒂芬 阿斯蒂芬
+     
+     
+     adsf
+      adfadf 
+      
+      adsfadsfadsf
+      
 
 
 
