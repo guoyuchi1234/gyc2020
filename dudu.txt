@@ -1,5 +1,0 @@
-更新后
-	if a%2==0
-		print("SB")
-	eles
-		print("SHABI")
